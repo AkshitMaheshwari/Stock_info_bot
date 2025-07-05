@@ -25,5 +25,4 @@ packaging
 fastapi
 uvicorn
 groq
-phi
 
