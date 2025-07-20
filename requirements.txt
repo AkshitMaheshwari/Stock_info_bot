@@ -1,9 +1,6 @@
-neo4j==5.14
 langchain_groq
 python-dotenv
 langchain
-ipykernel
-python-dotenv
 langchain-community
 langchain-text-splitters
 langchain-openai
@@ -14,15 +11,11 @@ openai
 duckduckgo_search==5.3.1b1
 validators==0.28.1
 streamlit
-langchain-groq
 numexpr
 google-search-results
-crewai
-crewai_tools
 phidata
 yfinance
 packaging
-fastapi
-uvicorn
 groq
+plotly
 
