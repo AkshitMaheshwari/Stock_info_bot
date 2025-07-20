@@ -18,4 +18,4 @@ yfinance
 packaging
 groq
 plotly
-
+google-generativeai
