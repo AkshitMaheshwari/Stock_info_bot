@@ -19,3 +19,4 @@ packaging
 groq
 plotly
 google-generativeai
+tavily-python
